@@ -12,11 +12,6 @@ A modular Flutter app designed to help users track career goals, visualize skill
 - 💬 **Mentor Notes** – Add personalized guidance and feedback
 - 🎨 **Custom Branding** – Logo, color themes, and profile polish
 
-## 📱 Download
-
-- [CareerMentor-v1.0.apk](https://github.com/your-username/career_mentor_flutter/releases/latest)  
-*(Direct install on Android — no Play Store required)*
-
 ## 🖼️ Screenshots
 
 check out assets for sampling pics
