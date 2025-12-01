@@ -1,16 +1,56 @@
-# career_mentor_flutter
+# 🎯 Career Mentor
 
-A new Flutter project.
+A modular Flutter app designed to help users track career goals, visualize skill growth, and export progress in a mentor-ready format. Built with precision, polish, and professional presentation in mind.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📊 **Analytics Dashboard** – Visualize skill growth over time
+- 🎯 **Goal Tracker** – Track milestones with progress bars
+- 🕒 **Timeline View** – Chronological display of achievements
+- 📝 **PDF Export** – Branded, auto-generated summaries of goals and progress
+- 📂 **Export History** – Quick access to previously generated files
+- 💬 **Mentor Notes** – Add personalized guidance and feedback
+- 🎨 **Custom Branding** – Logo, color themes, and profile polish
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Download
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [CareerMentor-v1.0.apk](https://github.com/your-username/career_mentor_flutter/releases/latest)  
+*(Direct install on Android — no Play Store required)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Screenshots
+
+check out assets for sampling pics
+
+## 🧠 Architecture
+
+- **Modular structure**: Feature-first folders (analytics, goals, timeline, exports)
+- **Clean separation**: UI, state, and data layers
+- **Reusable services**: PDF generation, branding, storage
+- **Kotlin DSL**: Gradle configuration with Java 17 and desugaring support
+
+## 🛠️ Tech Stack
+
+- Flutter & Dart
+- Provider (state management)
+- PDF & file handling
+- Gradle Kotlin DSL
+- Android SDK (Java 17)
+
+## 🧪 How to Run Locally
+```bash
+flutter pub get
+flutter run
+```
+
+📦 Build Commands
+flutter build apk --release
+flutter build appbundle --release
+
+📄 License
+This project is released under the MIT License. Feel free to fork, modify, and showcase your own version.
+
+Built with ❤️ by Ajay — aspiring Data Scientist, passionate about empowering users through clean design and meaningful features.
+
+```bash
+flutter pub get
+flutter run
